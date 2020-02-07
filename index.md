@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+### St. Louis Metro Area
 
 [GitHub Profile](https://github.com/bjanish/)
 
