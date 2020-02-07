@@ -4,7 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[GitHub Profile](https://github.com/bjanish" target="_blank")
+[LinkedIn Profile]("https://www.linkedin.com/profile/view?id=19018323&trk=nav_responsive_tab_profile" target="_blank")
+
 
 There should be whitespace between paragraphs.
 
