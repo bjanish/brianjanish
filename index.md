@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-_St._ _Louis_ _Metro_ _Area_
+_Greater_ _St._ _Louis_ _Area_
 
 
 [GitHub Profile](http://github.com/bjanish/)
