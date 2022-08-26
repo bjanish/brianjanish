@@ -1,8 +1,8 @@
+
 ---
 layout: default
 ---
 _Greater_ _St._ _Louis_ _Area_
-
 
 [GitHub Profile](http://github.com/bjanish/)
 
